@@ -1,0 +1,12 @@
+
+ Causa
+  id: código único
+  titulo: tema principal
+  descripcion: detalle del problema
+  fecha: fecha de publicación
+  estado: en proceso / cerrada
+
+Apoyo
+  id: código único
+  causa_id: causa que respalda
+  fecha_apoyo: día que dio su respaldo

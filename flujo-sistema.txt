@@ -1,0 +1,6 @@
+1. Una persona registra la necesidad o solicitud de su comunidad.
+2. El sistema guarda la causa y la pone a disposición pública.
+3. Los vecinos revisan la información y confirman su respaldo.
+4. Se suma cada apoyo y se actualiza el total en tiempo real.
+5. Al finalizar el plazo, se organiza toda la información.
+6. Se genera el archivo PDF listo para presentar ante las autoridades.
